@@ -9,12 +9,12 @@ Start the game by running the app with node:
 node index.js
 ```
 
-![alt text](https://github.com/joshespr/9-Word-Guess-constructor/blob/master/gifs/demo.gif)
+![alt text](https://github.com/joshespr/9-Word-Guess-constructor/blob/master/images/demo.gif)
 
 
 any invalid inputs return an error
 
-![alt text](https://github.com/joshespr/9-Word-Guess-constructor/blob/master/gifs/error.gif)
+![alt text](https://github.com/joshespr/9-Word-Guess-constructor/blob/master/images/error.gif)
 
 ## Authors
 
